@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T22:04:14.662Z",
+  "updatedAt": "2026-06-01T22:04:16.321Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -18,6 +18,19 @@
           "pinOffset": -18,
           "content": "<p>nigger</p>",
           "createdAt": "2026-06-01T22:03:56.737Z"
+        },
+        {
+          "id": "u8jnrYbc0ibK",
+          "x": 602.0614364465536,
+          "y": 313.78013094489023,
+          "w": 200,
+          "h": 200,
+          "color": "green",
+          "rotation": 1.8,
+          "pin": "pin",
+          "pinOffset": 20,
+          "content": "",
+          "createdAt": "2026-06-01T22:04:16.321Z"
         }
       ]
     }
