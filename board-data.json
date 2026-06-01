@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T21:13:52.228Z",
+  "updatedAt": "2026-06-01T21:13:57.039Z",
   "boards": [
     {
       "id": "rh2gnZyzdR61",
@@ -16,7 +16,7 @@
           "rotation": 0.3,
           "pin": "tape",
           "pinOffset": 19,
-          "content": "",
+          "content": "<p>penis test</p>",
           "createdAt": "2026-06-01T21:13:52.227Z"
         }
       ]
