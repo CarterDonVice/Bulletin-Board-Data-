@@ -1,26 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T22:03:39.179Z",
+  "updatedAt": "2026-06-01T22:03:53.278Z",
   "boards": [
-    {
-      "id": "rh2gnZyzdR61",
-      "name": "My Board",
-      "notes": [
-        {
-          "id": "_q09U7qL1n5g",
-          "x": 519.5194937951592,
-          "y": 203.58599100898925,
-          "w": 200,
-          "h": 200,
-          "color": "blue",
-          "rotation": 0.3,
-          "pin": "tape",
-          "pinOffset": 19,
-          "content": "<p>penis test</p>",
-          "createdAt": "2026-06-01T21:13:52.227Z"
-        }
-      ]
-    },
     {
       "id": "oAEO-gsUQWfI",
       "name": "Board 2",
