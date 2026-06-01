@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T22:04:29.167Z",
+  "updatedAt": "2026-06-01T22:04:34.702Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -20,6 +20,11 @@
           "createdAt": "2026-06-01T22:03:56.737Z"
         }
       ]
+    },
+    {
+      "id": "js20NIr5gwXJ",
+      "name": "Board 2",
+      "notes": []
     }
   ]
 }
