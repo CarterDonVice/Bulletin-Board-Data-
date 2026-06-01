@@ -1,10 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T21:08:14.053Z",
+  "updatedAt": "2026-06-01T21:08:32.019Z",
   "boards": [
     {
-      "id": "01it-M2P8POG",
+      "id": "rh2gnZyzdR61",
       "name": "My Board",
+      "notes": []
+    },
+    {
+      "id": "oAEO-gsUQWfI",
+      "name": "Board 2",
       "notes": []
     }
   ]
