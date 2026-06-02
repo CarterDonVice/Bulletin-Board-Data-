@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T19:49:52.787Z",
+  "updatedAt": "2026-06-02T19:49:54.888Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -61,7 +61,7 @@
           "rotation": -3,
           "pin": "pin",
           "pinOffset": 8,
-          "content": "<p>run through label itterations until complete</p>",
+          "content": "<p>run through label iterations until complete</p>",
           "createdAt": "2026-06-02T19:49:34.437Z"
         }
       ],
