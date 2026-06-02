@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T20:50:48.000Z",
+  "updatedAt": "2026-06-02T20:50:50.182Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -74,7 +74,7 @@
           "rotation": -1.6,
           "pin": "pin",
           "pinOffset": 16,
-          "content": "",
+          "content": "<p>ask </p>",
           "createdAt": "2026-06-02T20:50:48.000Z"
         }
       ],
