@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T20:51:24.623Z",
+  "updatedAt": "2026-06-02T20:51:29.774Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -27,8 +27,8 @@
         },
         {
           "id": "z1uBjc3f_GIq",
-          "x": 1481.950423483182,
-          "y": 277.1244517017933,
+          "x": 1523.0098430015714,
+          "y": 241.66403616918234,
           "w": 200,
           "h": 200,
           "color": "pink",
@@ -66,8 +66,8 @@
         },
         {
           "id": "wAYkjWRslkI8",
-          "x": 1138.365555882363,
-          "y": 72.4575731534332,
+          "x": 1129.0339395287458,
+          "y": 219.89802568460348,
           "w": 200,
           "h": 200,
           "color": "green",
@@ -83,11 +83,6 @@
           "id": "T20My6k1uDp_",
           "from": "gWmdIp7BBVOY",
           "to": "sfbPTt0_dYbB"
-        },
-        {
-          "id": "BgUYY8kBtJK6",
-          "from": "sfbPTt0_dYbB",
-          "to": "z1uBjc3f_GIq"
         },
         {
           "id": "ypo0skNfwffi",
