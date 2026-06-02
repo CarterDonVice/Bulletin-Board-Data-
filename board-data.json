@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T15:41:08.440Z",
+  "updatedAt": "2026-06-02T15:41:14.390Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -37,6 +37,19 @@
           "pinOffset": 5,
           "content": "",
           "createdAt": "2026-06-02T15:41:08.440Z"
+        },
+        {
+          "id": "ir9YdN-lOYBi",
+          "x": 981.2576027141981,
+          "y": 593.3741224043797,
+          "w": 200,
+          "h": 200,
+          "color": "peach",
+          "rotation": 0.3,
+          "pin": "tape",
+          "pinOffset": -9,
+          "content": "",
+          "createdAt": "2026-06-02T15:41:14.390Z"
         }
       ]
     }
