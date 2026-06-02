@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T19:49:45.392Z",
+  "updatedAt": "2026-06-02T19:49:52.787Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -53,15 +53,15 @@
         },
         {
           "id": "Ko_iPAs6r4IK",
-          "x": 643.3202583284414,
-          "y": 453.18984418637035,
+          "x": 708.6419145398431,
+          "y": 541.840797583877,
           "w": 200,
           "h": 200,
           "color": "lavender",
           "rotation": -3,
           "pin": "pin",
           "pinOffset": 8,
-          "content": "<p>run through label itterations</p>",
+          "content": "<p>run through label itterations until complete</p>",
           "createdAt": "2026-06-02T19:49:34.437Z"
         }
       ],
