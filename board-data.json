@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:10:48.416Z",
+  "updatedAt": "2026-06-02T16:10:53.528Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -35,7 +35,7 @@
           "rotation": -2.2,
           "pin": "pin",
           "pinOffset": -1,
-          "content": "",
+          "content": "<p>get bottle dimensions</p>",
           "createdAt": "2026-06-02T16:10:48.416Z"
         }
       ],
