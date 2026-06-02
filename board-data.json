@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T15:41:17.223Z",
+  "updatedAt": "2026-06-02T15:41:28.325Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -40,8 +40,8 @@
         },
         {
           "id": "ir9YdN-lOYBi",
-          "x": 981.2576027141981,
-          "y": 593.3741224043797,
+          "x": 1155.5456325787195,
+          "y": 474.8583751599501,
           "w": 200,
           "h": 200,
           "color": "peach",
@@ -50,6 +50,13 @@
           "pinOffset": -9,
           "content": "",
           "createdAt": "2026-06-02T15:41:14.390Z"
+        }
+      ],
+      "connections": [
+        {
+          "id": "anaomo-leEsx",
+          "from": "inkiWcUfYk56",
+          "to": "ir9YdN-lOYBi"
         }
       ]
     }
