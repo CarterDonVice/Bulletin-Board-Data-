@@ -1,26 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:09:52.424Z",
+  "updatedAt": "2026-06-02T16:09:56.783Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
       "name": "personal",
-      "notes": [
-        {
-          "id": "5SeqA3aUiaMU",
-          "x": 622.4915713989762,
-          "y": 297.88011240538253,
-          "w": 200,
-          "h": 200,
-          "color": "pink",
-          "rotation": -1.1,
-          "pin": "pin",
-          "pinOffset": -3,
-          "content": "<p>cwwcc</p>",
-          "createdAt": "2026-06-02T16:09:32.128Z",
-          "fontSize": 18
-        }
-      ],
+      "notes": [],
       "connections": []
     },
     {
@@ -41,12 +26,6 @@
           "createdAt": "2026-06-02T15:41:08.440Z"
         }
       ],
-      "connections": []
-    },
-    {
-      "id": "N6fdRaikEryT",
-      "name": "Board 3",
-      "notes": [],
       "connections": []
     }
   ]
