@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:11:34.258Z",
+  "updatedAt": "2026-06-02T16:11:43.992Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -40,16 +40,29 @@
         },
         {
           "id": "z1uBjc3f_GIq",
-          "x": 516,
-          "y": 93.00007629394531,
+          "x": 744,
+          "y": 195.0000762939453,
           "w": 200,
           "h": 200,
           "color": "pink",
           "rotation": 3,
           "pin": "pin",
           "pinOffset": -11,
-          "content": "<p>get first draft label sent to </p>",
+          "content": "<p>get first draft label sent to NNB for approval</p>",
           "createdAt": "2026-06-02T16:11:17.965Z"
+        },
+        {
+          "id": "sfbPTt0_dYbB",
+          "x": 684.3224148659464,
+          "y": 426.5284738530738,
+          "w": 200,
+          "h": 200,
+          "color": "pink",
+          "rotation": 2.4,
+          "pin": "tape",
+          "pinOffset": -13,
+          "content": "",
+          "createdAt": "2026-06-02T16:11:43.992Z"
         }
       ],
       "connections": [
