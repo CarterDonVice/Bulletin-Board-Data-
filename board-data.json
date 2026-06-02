@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:12:15.362Z",
+  "updatedAt": "2026-06-02T19:49:15.886Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -13,22 +13,9 @@
       "name": "biz",
       "notes": [
         {
-          "id": "inkiWcUfYk56",
-          "x": 253.25880098044502,
-          "y": 401.27638535181427,
-          "w": 200,
-          "h": 200,
-          "color": "green",
-          "rotation": 0.7,
-          "pin": "pin",
-          "pinOffset": 5,
-          "content": "<p>Call with graphic designer</p>",
-          "createdAt": "2026-06-02T15:41:08.440Z"
-        },
-        {
           "id": "gWmdIp7BBVOY",
-          "x": 254,
-          "y": 115.66676330566406,
+          "x": 323.05435401326105,
+          "y": 243.5107018866097,
           "w": 200,
           "h": 200,
           "color": "pink",
@@ -65,13 +52,7 @@
           "createdAt": "2026-06-02T16:11:43.992Z"
         }
       ],
-      "connections": [
-        {
-          "id": "2Z1q08Utd_6s",
-          "from": "gWmdIp7BBVOY",
-          "to": "inkiWcUfYk56"
-        }
-      ]
+      "connections": []
     }
   ]
 }
