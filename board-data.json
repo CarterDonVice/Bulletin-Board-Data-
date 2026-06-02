@@ -1,23 +1,23 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:09:24.484Z",
+  "updatedAt": "2026-06-02T16:09:32.128Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
       "name": "personal",
       "notes": [
         {
-          "id": "tdkN_dCyzBxp",
-          "x": 434.0118568822288,
-          "y": 215.91235852261525,
+          "id": "5SeqA3aUiaMU",
+          "x": 578.49151036382,
+          "y": 295.8801734405388,
           "w": 200,
           "h": 200,
-          "color": "peach",
-          "rotation": -3.1,
-          "pin": "tape",
-          "pinOffset": -13,
-          "content": "<p>axzAXax</p>",
-          "createdAt": "2026-06-02T16:09:15.502Z"
+          "color": "pink",
+          "rotation": -1.1,
+          "pin": "pin",
+          "pinOffset": -3,
+          "content": "",
+          "createdAt": "2026-06-02T16:09:32.128Z"
         }
       ],
       "connections": []
