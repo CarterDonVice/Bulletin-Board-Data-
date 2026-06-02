@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:10:53.528Z",
+  "updatedAt": "2026-06-02T16:11:05.682Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -27,15 +27,15 @@
         },
         {
           "id": "gWmdIp7BBVOY",
-          "x": 224.6666259765625,
-          "y": 83.00007629394531,
+          "x": 275.33331298828125,
+          "y": 111.00007629394531,
           "w": 200,
           "h": 200,
           "color": "pink",
           "rotation": -2.2,
           "pin": "pin",
           "pinOffset": -1,
-          "content": "<p>get bottle dimensions</p>",
+          "content": "<p>get bottle dimensions and pick color with manufacturer </p>",
           "createdAt": "2026-06-02T16:10:48.416Z"
         }
       ],
