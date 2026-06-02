@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:10:34.978Z",
+  "updatedAt": "2026-06-02T16:10:48.416Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -14,8 +14,8 @@
       "notes": [
         {
           "id": "inkiWcUfYk56",
-          "x": 193.25873994528877,
-          "y": 134.60975937525177,
+          "x": 275.9254269570075,
+          "y": 411.94313339868927,
           "w": 200,
           "h": 200,
           "color": "green",
@@ -24,6 +24,19 @@
           "pinOffset": 5,
           "content": "<p>Call with graphic designer</p>",
           "createdAt": "2026-06-02T15:41:08.440Z"
+        },
+        {
+          "id": "gWmdIp7BBVOY",
+          "x": 224.6666259765625,
+          "y": 83.00007629394531,
+          "w": 200,
+          "h": 200,
+          "color": "pink",
+          "rotation": -2.2,
+          "pin": "pin",
+          "pinOffset": -1,
+          "content": "",
+          "createdAt": "2026-06-02T16:10:48.416Z"
         }
       ],
       "connections": []
