@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:11:30.047Z",
+  "updatedAt": "2026-06-02T16:11:34.258Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -48,7 +48,7 @@
           "rotation": 3,
           "pin": "pin",
           "pinOffset": -11,
-          "content": "<p>get first draft </p>",
+          "content": "<p>get first draft label sent to </p>",
           "createdAt": "2026-06-02T16:11:17.965Z"
         }
       ],
