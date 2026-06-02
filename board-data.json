@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T19:49:21.064Z",
+  "updatedAt": "2026-06-02T19:49:34.438Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -14,8 +14,8 @@
       "notes": [
         {
           "id": "gWmdIp7BBVOY",
-          "x": 323.05435401326105,
-          "y": 243.5107018866097,
+          "x": 307.1904524308748,
+          "y": 335.89426765195475,
           "w": 200,
           "h": 200,
           "color": "pink",
@@ -27,8 +27,8 @@
         },
         {
           "id": "z1uBjc3f_GIq",
-          "x": 950.9782406431958,
-          "y": 270.5922519070448,
+          "x": 1269.1882720235997,
+          "y": 250.9957379568201,
           "w": 200,
           "h": 200,
           "color": "pink",
@@ -40,8 +40,8 @@
         },
         {
           "id": "sfbPTt0_dYbB",
-          "x": 641.1269330235143,
-          "y": 244.74746030322433,
+          "x": 755.9065147319734,
+          "y": 226.08405672794885,
           "w": 200,
           "h": 200,
           "color": "pink",
@@ -50,6 +50,19 @@
           "pinOffset": -13,
           "content": "<p>get in contact with NNB to determine bulk price, royalty, and legal specifications. </p>",
           "createdAt": "2026-06-02T16:11:43.992Z"
+        },
+        {
+          "id": "Ko_iPAs6r4IK",
+          "x": 643.3202583284414,
+          "y": 453.18984418637035,
+          "w": 200,
+          "h": 200,
+          "color": "lavender",
+          "rotation": -3,
+          "pin": "pin",
+          "pinOffset": 8,
+          "content": "",
+          "createdAt": "2026-06-02T19:49:34.437Z"
         }
       ],
       "connections": [
