@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:12:02.828Z",
+  "updatedAt": "2026-06-02T16:12:15.362Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -40,8 +40,8 @@
         },
         {
           "id": "z1uBjc3f_GIq",
-          "x": 744,
-          "y": 195.0000762939453,
+          "x": 950.9782406431958,
+          "y": 270.5922519070448,
           "w": 200,
           "h": 200,
           "color": "pink",
@@ -53,15 +53,15 @@
         },
         {
           "id": "sfbPTt0_dYbB",
-          "x": 684.3224148659464,
-          "y": 426.5284738530738,
+          "x": 641.1269330235143,
+          "y": 244.74746030322433,
           "w": 200,
           "h": 200,
           "color": "pink",
           "rotation": 2.4,
           "pin": "tape",
           "pinOffset": -13,
-          "content": "<p>get in contact with NNB to determine bulk price, royalty, </p>",
+          "content": "<p>get in contact with NNB to determine bulk price, royalty, and legal specifications. </p>",
           "createdAt": "2026-06-02T16:11:43.992Z"
         }
       ],
