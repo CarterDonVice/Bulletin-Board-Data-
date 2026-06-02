@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T20:51:22.437Z",
+  "updatedAt": "2026-06-02T20:51:24.623Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -76,19 +76,6 @@
           "pinOffset": 16,
           "content": "<p>ask about what a legal dosing requirement is for hydro prime as well as the clinical dose claimable level</p>",
           "createdAt": "2026-06-02T20:50:48.000Z"
-        },
-        {
-          "id": "3zf9fO18514r",
-          "x": 1106.6378381516113,
-          "y": 281.0204716236819,
-          "w": 200,
-          "h": 200,
-          "color": "pink",
-          "rotation": 1.7,
-          "pin": "pin",
-          "pinOffset": 18,
-          "content": "",
-          "createdAt": "2026-06-02T20:51:22.437Z"
         }
       ],
       "connections": [
