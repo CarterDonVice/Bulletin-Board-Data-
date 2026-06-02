@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:10:06.217Z",
+  "updatedAt": "2026-06-02T16:10:11.488Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -22,7 +22,7 @@
           "rotation": 0.7,
           "pin": "pin",
           "pinOffset": 5,
-          "content": "<p>Call with </p>",
+          "content": "<p>Call with graphic </p>",
           "createdAt": "2026-06-02T15:41:08.440Z"
         }
       ],
