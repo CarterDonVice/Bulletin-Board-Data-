@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:09:32.128Z",
+  "updatedAt": "2026-06-02T16:09:42.569Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -8,15 +8,15 @@
       "notes": [
         {
           "id": "5SeqA3aUiaMU",
-          "x": 578.49151036382,
-          "y": 295.8801734405388,
+          "x": 1245.1581973755387,
+          "y": 681.21348642882,
           "w": 200,
           "h": 200,
           "color": "pink",
           "rotation": -1.1,
           "pin": "pin",
           "pinOffset": -3,
-          "content": "",
+          "content": "<p>cww</p>",
           "createdAt": "2026-06-02T16:09:32.128Z"
         }
       ],
