@@ -1,38 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T15:55:05.983Z",
+  "updatedAt": "2026-06-02T15:55:20.746Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
       "name": "personal",
-      "notes": [
-        {
-          "id": "Bp9X9C6OYy4e",
-          "x": 1137.7334511951997,
-          "y": 653.5917363781914,
-          "w": 200,
-          "h": 200,
-          "color": "green",
-          "rotation": 1,
-          "pin": "pin",
-          "pinOffset": -6,
-          "content": "<p>adding notw test</p>",
-          "createdAt": "2026-06-02T15:54:49.049Z"
-        },
-        {
-          "id": "vnS421_ltCCy",
-          "x": 702.479321690801,
-          "y": 544.9447888222088,
-          "w": 200,
-          "h": 200,
-          "color": "peach",
-          "rotation": 2.6,
-          "pin": "pin",
-          "pinOffset": -6,
-          "content": "<p>advdsav</p>",
-          "createdAt": "2026-06-02T15:55:04.402Z"
-        }
-      ],
+      "notes": [],
       "connections": []
     },
     {
