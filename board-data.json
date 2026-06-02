@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T15:54:49.049Z",
+  "updatedAt": "2026-06-02T15:54:54.085Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -16,7 +16,7 @@
           "rotation": 1,
           "pin": "pin",
           "pinOffset": -6,
-          "content": "",
+          "content": "<p>adding notw test</p>",
           "createdAt": "2026-06-02T15:54:49.049Z"
         }
       ],
