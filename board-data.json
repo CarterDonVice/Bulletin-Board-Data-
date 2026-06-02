@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T15:41:33.817Z",
+  "updatedAt": "2026-06-02T15:41:38.423Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -37,54 +37,9 @@
           "pinOffset": 5,
           "content": "",
           "createdAt": "2026-06-02T15:41:08.440Z"
-        },
-        {
-          "id": "ir9YdN-lOYBi",
-          "x": 1155.5456325787195,
-          "y": 474.8583751599501,
-          "w": 200,
-          "h": 200,
-          "color": "peach",
-          "rotation": 0.3,
-          "pin": "tape",
-          "pinOffset": -9,
-          "content": "",
-          "createdAt": "2026-06-02T15:41:14.390Z"
-        },
-        {
-          "id": "Z9v3IFT6ZLmV",
-          "x": 870.6604231318969,
-          "y": 686.9790787770461,
-          "w": 200,
-          "h": 200,
-          "color": "lavender",
-          "rotation": 2.2,
-          "pin": "pin",
-          "pinOffset": 0,
-          "content": "",
-          "createdAt": "2026-06-02T15:41:31.903Z"
-        },
-        {
-          "id": "MlmhVeBL34kp",
-          "x": 153.59017187780663,
-          "y": 580.9124374457118,
-          "w": 200,
-          "h": 200,
-          "color": "lavender",
-          "rotation": 3.9,
-          "pin": "pin",
-          "pinOffset": 13,
-          "content": "",
-          "createdAt": "2026-06-02T15:41:33.817Z"
         }
       ],
-      "connections": [
-        {
-          "id": "anaomo-leEsx",
-          "from": "inkiWcUfYk56",
-          "to": "ir9YdN-lOYBi"
-        }
-      ]
+      "connections": []
     }
   ]
 }
