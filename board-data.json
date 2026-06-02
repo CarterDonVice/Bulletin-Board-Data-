@@ -1,25 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T15:41:48.723Z",
+  "updatedAt": "2026-06-02T15:41:52.251Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
       "name": "personal",
-      "notes": [
-        {
-          "id": "ihWu3jU3-G2x",
-          "x": 81.40277464787096,
-          "y": 73.80987077204577,
-          "w": 200,
-          "h": 200,
-          "color": "pink",
-          "rotation": -1.2,
-          "pin": "pin",
-          "pinOffset": -18,
-          "content": "<p>nigger</p>",
-          "createdAt": "2026-06-01T22:03:56.737Z"
-        }
-      ]
+      "notes": [],
+      "connections": []
     },
     {
       "id": "js20NIr5gwXJ",
