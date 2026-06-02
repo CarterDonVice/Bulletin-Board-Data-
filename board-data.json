@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:11:13.615Z",
+  "updatedAt": "2026-06-02T16:11:19.085Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -14,8 +14,8 @@
       "notes": [
         {
           "id": "inkiWcUfYk56",
-          "x": 261.92548799216377,
-          "y": 402.60975937525177,
+          "x": 253.25880098044502,
+          "y": 401.27638535181427,
           "w": 200,
           "h": 200,
           "color": "green",
@@ -37,6 +37,19 @@
           "pinOffset": -1,
           "content": "<p>get bottle dimensions and pick color with manufacturer </p>",
           "createdAt": "2026-06-02T16:10:48.416Z"
+        },
+        {
+          "id": "z1uBjc3f_GIq",
+          "x": 516,
+          "y": 93.00007629394531,
+          "w": 200,
+          "h": 200,
+          "color": "pink",
+          "rotation": 3,
+          "pin": "pin",
+          "pinOffset": -11,
+          "content": "",
+          "createdAt": "2026-06-02T16:11:17.965Z"
         }
       ],
       "connections": [
