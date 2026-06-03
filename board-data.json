@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:16:41.005Z",
+  "updatedAt": "2026-06-03T03:16:44.576Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -22,8 +22,8 @@
         },
         {
           "id": "Yzi_zUJpL2nO",
-          "x": 769.2978480084573,
-          "y": 546.0400078562004,
+          "x": 553.7361945559854,
+          "y": 338.87686038239633,
           "w": 200,
           "h": 200,
           "color": "peach",
@@ -31,7 +31,8 @@
           "pin": "pin",
           "pinOffset": 17,
           "content": "<p>practice sax</p>",
-          "createdAt": "2026-06-03T03:16:35.770Z"
+          "createdAt": "2026-06-03T03:16:35.770Z",
+          "fontSize": 28
         }
       ],
       "connections": []
