@@ -1,25 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:09:02.635Z",
+  "updatedAt": "2026-06-03T03:09:16.702Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
       "name": "personal",
-      "notes": [
-        {
-          "id": "60z2RKALY5Zc",
-          "x": 866.5340257720378,
-          "y": 226.9461027374934,
-          "w": 200,
-          "h": 200,
-          "color": "lavender",
-          "rotation": -1.1,
-          "pin": "pin",
-          "pinOffset": 2,
-          "content": "<p>niggor</p>",
-          "createdAt": "2026-06-03T03:08:58.399Z"
-        }
-      ],
+      "notes": [],
       "connections": []
     },
     {
