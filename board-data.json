@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:16:31.219Z",
+  "updatedAt": "2026-06-03T03:16:33.072Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -17,7 +17,8 @@
           "pin": "pin",
           "pinOffset": -16,
           "content": "<p>mow lawn</p>",
-          "createdAt": "2026-06-03T03:16:24.028Z"
+          "createdAt": "2026-06-03T03:16:24.028Z",
+          "fontSize": 28
         }
       ],
       "connections": []
