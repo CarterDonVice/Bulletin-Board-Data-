@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:09:41.148Z",
+  "updatedAt": "2026-06-03T03:09:47.358Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -16,7 +16,7 @@
           "rotation": -0.7,
           "pin": "pin",
           "pinOffset": 2,
-          "content": "",
+          "content": "<p>asASass</p>",
           "createdAt": "2026-06-03T03:09:36.062Z",
           "fontSize": 22
         },
