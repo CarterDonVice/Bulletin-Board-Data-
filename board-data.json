@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:16:33.072Z",
+  "updatedAt": "2026-06-03T03:16:35.770Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -19,6 +19,19 @@
           "content": "<p>mow lawn</p>",
           "createdAt": "2026-06-03T03:16:24.028Z",
           "fontSize": 28
+        },
+        {
+          "id": "Yzi_zUJpL2nO",
+          "x": 769.2978480084573,
+          "y": 546.0400078562004,
+          "w": 200,
+          "h": 200,
+          "color": "peach",
+          "rotation": -3.3,
+          "pin": "pin",
+          "pinOffset": 17,
+          "content": "",
+          "createdAt": "2026-06-03T03:16:35.770Z"
         }
       ],
       "connections": []
