@@ -1,24 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:10:19.821Z",
+  "updatedAt": "2026-06-03T03:10:26.089Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
       "name": "personal",
       "notes": [
-        {
-          "id": "_dqaLpn5U6uf",
-          "x": 545.3376885773177,
-          "y": 144.31147187659394,
-          "w": 200,
-          "h": 200,
-          "color": "yellow",
-          "rotation": 2.4,
-          "pin": "tape",
-          "pinOffset": 1,
-          "content": "",
-          "createdAt": "2026-06-03T03:10:18.725Z"
-        },
         {
           "id": "E6mLT_qyy_UZ",
           "x": 753.9005870475664,
