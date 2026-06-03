@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:16:24.028Z",
+  "updatedAt": "2026-06-03T03:16:31.219Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -16,7 +16,7 @@
           "rotation": -3.3,
           "pin": "pin",
           "pinOffset": -16,
-          "content": "",
+          "content": "<p>mow lawn</p>",
           "createdAt": "2026-06-03T03:16:24.028Z"
         }
       ],
