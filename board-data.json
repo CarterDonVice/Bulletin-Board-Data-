@@ -1,11 +1,25 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:09:16.702Z",
+  "updatedAt": "2026-06-03T03:09:36.062Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
       "name": "personal",
-      "notes": [],
+      "notes": [
+        {
+          "id": "017LPPQg-yUr",
+          "x": 504.7449096804237,
+          "y": 85.05533212143479,
+          "w": 200,
+          "h": 200,
+          "color": "green",
+          "rotation": -0.7,
+          "pin": "pin",
+          "pinOffset": 2,
+          "content": "",
+          "createdAt": "2026-06-03T03:09:36.062Z"
+        }
+      ],
       "connections": []
     },
     {
