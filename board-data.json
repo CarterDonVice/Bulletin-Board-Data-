@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:09:00.060Z",
+  "updatedAt": "2026-06-03T03:09:02.635Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -16,7 +16,7 @@
           "rotation": -1.1,
           "pin": "pin",
           "pinOffset": 2,
-          "content": "",
+          "content": "<p>niggor</p>",
           "createdAt": "2026-06-03T03:08:58.399Z"
         }
       ],
