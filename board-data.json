@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:17:11.132Z",
+  "updatedAt": "2026-06-03T03:17:15.507Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -121,8 +121,8 @@
         },
         {
           "id": "8cixgdgCYA3C",
-          "x": 871.0130728444298,
-          "y": 736.406143372669,
+          "x": 578.9315843409574,
+          "y": 654.2874752039318,
           "w": 200,
           "h": 200,
           "color": "yellow",
@@ -130,7 +130,8 @@
           "pin": "tape",
           "pinOffset": 8,
           "content": "<p>check up on quote for graphic design</p>",
-          "createdAt": "2026-06-03T03:17:04.684Z"
+          "createdAt": "2026-06-03T03:17:04.684Z",
+          "fontSize": 22
         }
       ],
       "connections": [
