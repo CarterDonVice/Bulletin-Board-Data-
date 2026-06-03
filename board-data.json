@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:16:49.442Z",
+  "updatedAt": "2026-06-03T03:17:04.684Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -116,8 +116,21 @@
           "rotation": -1.8,
           "pin": "pin",
           "pinOffset": -12,
-          "content": "",
+          "content": "<p>check up on bottle selection process and NNB introduction</p>",
           "createdAt": "2026-06-03T03:16:49.442Z"
+        },
+        {
+          "id": "8cixgdgCYA3C",
+          "x": 871.0130728444298,
+          "y": 736.406143372669,
+          "w": 200,
+          "h": 200,
+          "color": "yellow",
+          "rotation": 3.5,
+          "pin": "tape",
+          "pinOffset": 8,
+          "content": "",
+          "createdAt": "2026-06-03T03:17:04.684Z"
         }
       ],
       "connections": [
