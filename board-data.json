@@ -1,24 +1,36 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:10:16.462Z",
+  "updatedAt": "2026-06-03T03:10:19.821Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
       "name": "personal",
       "notes": [
         {
-          "id": "017LPPQg-yUr",
-          "x": 504.7449096804237,
-          "y": 85.05533212143479,
+          "id": "_dqaLpn5U6uf",
+          "x": 545.3376885773177,
+          "y": 144.31147187659394,
           "w": 200,
           "h": 200,
-          "color": "green",
-          "rotation": -0.7,
+          "color": "yellow",
+          "rotation": 2.4,
+          "pin": "tape",
+          "pinOffset": 1,
+          "content": "",
+          "createdAt": "2026-06-03T03:10:18.725Z"
+        },
+        {
+          "id": "E6mLT_qyy_UZ",
+          "x": 753.9005870475664,
+          "y": 236.695037641939,
+          "w": 200,
+          "h": 200,
+          "color": "blue",
+          "rotation": 3.9,
           "pin": "pin",
-          "pinOffset": 2,
-          "content": "<p><u>asASass</u></p>",
-          "createdAt": "2026-06-03T03:09:36.062Z",
-          "fontSize": 22
+          "pinOffset": 14,
+          "content": "",
+          "createdAt": "2026-06-03T03:10:19.821Z"
         }
       ],
       "connections": []
