@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:10:14.845Z",
+  "updatedAt": "2026-06-03T03:10:16.462Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -19,28 +19,9 @@
           "content": "<p><u>asASass</u></p>",
           "createdAt": "2026-06-03T03:09:36.062Z",
           "fontSize": 22
-        },
-        {
-          "id": "Rq8bJ4LEeT0g",
-          "x": 1026.385476166793,
-          "y": 107.91790325202336,
-          "w": 200,
-          "h": 200,
-          "color": "pink",
-          "rotation": 2.1,
-          "pin": "pin",
-          "pinOffset": -10,
-          "content": "",
-          "createdAt": "2026-06-03T03:09:37.677Z"
         }
       ],
-      "connections": [
-        {
-          "id": "ApWncN6HpApR",
-          "from": "017LPPQg-yUr",
-          "to": "Rq8bJ4LEeT0g"
-        }
-      ]
+      "connections": []
     },
     {
       "id": "js20NIr5gwXJ",
