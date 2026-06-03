@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:18:58.534Z",
+  "updatedAt": "2026-06-03T03:19:03.319Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -121,8 +121,8 @@
         },
         {
           "id": "8cixgdgCYA3C",
-          "x": 578.9315843409574,
-          "y": 654.2874752039318,
+          "x": 745.0269443409574,
+          "y": 662.2915914539317,
           "w": 200,
           "h": 200,
           "color": "yellow",
@@ -132,19 +132,6 @@
           "content": "<p>check up on quote for graphic design</p>",
           "createdAt": "2026-06-03T03:17:04.684Z",
           "fontSize": 22
-        },
-        {
-          "id": "39-snH5niP1W",
-          "x": 537.00111,
-          "y": 1053.9132979589842,
-          "w": 200,
-          "h": 200,
-          "color": "peach",
-          "rotation": 3.1,
-          "pin": "pin",
-          "pinOffset": -4,
-          "content": "",
-          "createdAt": "2026-06-03T03:18:58.534Z"
         }
       ],
       "connections": [
