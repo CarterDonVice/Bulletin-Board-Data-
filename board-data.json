@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T03:10:02.604Z",
+  "updatedAt": "2026-06-03T03:10:11.699Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -35,8 +35,8 @@
         },
         {
           "id": "5gY7w0xCh_M6",
-          "x": 786.0948599657928,
-          "y": 441.05868312285384,
+          "x": 752.5008360511218,
+          "y": 466.2542010588571,
           "w": 200,
           "h": 200,
           "color": "pink",
@@ -52,11 +52,6 @@
           "id": "ApWncN6HpApR",
           "from": "017LPPQg-yUr",
           "to": "Rq8bJ4LEeT0g"
-        },
-        {
-          "id": "M2ztSfmRVQDl",
-          "from": "017LPPQg-yUr",
-          "to": "5gY7w0xCh_M6"
         }
       ]
     },
