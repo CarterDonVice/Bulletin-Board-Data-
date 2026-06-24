@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T02:55:01.824Z",
+  "updatedAt": "2026-06-24T02:55:03.431Z",
   "boards": [
     {
       "id": "oAEO-gsUQWfI",
@@ -154,11 +154,6 @@
           "id": "kxASBJQYfnNK",
           "from": "Ko_iPAs6r4IK",
           "to": "z1uBjc3f_GIq"
-        },
-        {
-          "id": "B2m7s04hVS85",
-          "from": "9uYsbNyHd2Mo",
-          "to": "8cixgdgCYA3C"
         }
       ]
     }
